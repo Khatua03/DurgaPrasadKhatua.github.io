@@ -2,7 +2,7 @@
 title: "A comparative study of ultrafast carrier dynamics near A, B, and C-excitons in a monolayer MoS<sub>2</sub> at high excitation densities"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-mos2-exciton-comparative
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: "Comparative study of ultrafast carrier dynamics near A, B, and C-excitons in monolayer MoS<sub>2</sub> at high excitation densities, revealing distinct excitonic behaviors."
 date: 2022-05-01
 venue: "Optical Materials"
