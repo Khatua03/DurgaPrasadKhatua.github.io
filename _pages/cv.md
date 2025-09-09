@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Physical Science, Aug 2017 – Nov 2022  
-  Homi Bhabha National Institute, Raja Ramanna Centre for Advanced Technology (RRCAT) , India.  
+  Homi Bhabha National Institute, Mumbai, India. 
   Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide.
+  Supervisor: Prof. J. Jayabalan
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
