@@ -27,11 +27,11 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-    {% assign counter = 0 %}
+    <ol>
     {% for post in site.publications reversed %}
-    {% assign counter = counter | plus: 1 %}
-    {% include archive-single.html number=counter %}
+    <li>{% include archive-single.html %}</li>
     {% endfor %}
+    </ol>
 {% endif %}
 
 <!-- Add Thesis section manually -->
