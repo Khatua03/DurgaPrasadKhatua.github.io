@@ -15,8 +15,15 @@ Education
   Homi Bhabha National Institute, Mumbai, India. 
   Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide.
   Supervisor: Prof. J. Jayabalan
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science (M.Sc.), Physics, July 2014 – July 2016  															
+  P.G. Department of Physics, Utkal University, Bhubaneswar, India.
+* Bachelor of Science (B.Sc.), Physics Hons, 2010–2013  
+  Gopabandhu Science College, Athgarh.  
+  Utkal University, Bhubaneswar, India.
+* Higher Secondary Education (12th), 2008–2010  
+  Council of Higher Secondary Education (CHSE), Odisha, India.
+* Secondary Education (10th), 2008  
+  Board of Secondary Education (BSE), Odisha, India.
 
 Work experience
 ======
