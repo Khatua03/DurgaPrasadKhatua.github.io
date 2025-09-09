@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physical Science, Aug 2017 – Nov 2022  
+* **Ph.D in Physical Science, Aug 2017 – Nov 2022**  
   Homi Bhabha National Institute, Mumbai, India. 
   Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide.
   Supervisor: Prof. J. Jayabalan
-* Master of Science (M.Sc.), Physics, July 2014 – July 2016  															
+* **Master of Science (M.Sc.), Physics, July 2014 – July 2016**  															
   P.G. Department of Physics, Utkal University, Bhubaneswar, India.
-* Bachelor of Science (B.Sc.), Physics Hons, 2010–2013  
+* **Bachelor of Science (B.Sc.), Physics Hons, 2010–2013** 
   Gopabandhu Science College, Athgarh.  
   Utkal University, Bhubaneswar, India.
-* Higher Secondary Education (12th), 2008–2010  
+* **Higher Secondary Education (12th), 2008–2010**  
   Council of Higher Secondary Education (CHSE), Odisha, India.
-* Secondary Education (10th), 2008  
+* **Secondary Education (10th), 2008**  
   Board of Secondary Education (BSE), Odisha, India.
 
 Work experience
