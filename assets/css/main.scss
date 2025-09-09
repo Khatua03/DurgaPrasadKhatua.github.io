@@ -10,6 +10,10 @@
  *
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Lora:wght@400&display=swap');
+body { font-family: 'Lora', serif; }
+h1, h2, h3, h4 { font-family: 'Merriweather', serif; }
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
