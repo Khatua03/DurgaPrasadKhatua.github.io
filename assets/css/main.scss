@@ -10,8 +10,59 @@
  *
 */
 
+/* Import a clean, professional font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-body { font-family: 'Roboto', sans-serif; }
+
+/* Global text style */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #191919;          /* LinkedIn dark gray/black for text */
+  background-color: #FFFFFF; /* Keep background white */
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;          /* Pure black headings */
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: #0A66C2;          /* LinkedIn Blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #004182;          /* Darker blue on hover */
+  text-decoration: underline;
+}
+
+/* Sidebar (author profile) */
+.sidebar {
+  background-color: #F3F2EF; /* LinkedIn light gray */
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* Secondary/muted text */
+.muted, .page__meta, .archive__item-excerpt {
+  color: #666666;          /* LinkedIn medium gray */
+}
+
+/* Buttons (like CV/Publications nav) */
+.btn {
+  background: #0A66C2;
+  color: #fff !important;
+  border-radius: 6px;
+  padding: 8px 16px;
+  display: inline-block;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background: #004182;
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -56,7 +107,4 @@ body { font-family: 'Roboto', sans-serif; }
   margin-right: 340px; /* give space so text doesn't overlap */
 }
 
- /* Force all body text to black */
-body {
-  color: #000 !important;
-}
+ 
