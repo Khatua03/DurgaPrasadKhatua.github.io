@@ -27,9 +27,11 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+    {% assign counter = 0 %}
+    {% for post in site.publications reversed %}
+    {% assign counter = counter | plus: 1 %}
+    {% include archive-single.html number=counter %}
+    {% endfor %}
 {% endif %}
 
 <!-- Add Thesis section manually -->
