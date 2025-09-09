@@ -3,7 +3,7 @@ title: "Filtering noise in time and frequency domain for ultrafast pump–probe 
 collection: publications
 category: manuscripts
 permalink: /publication/2020-noise-filtering-pump-probe
-excerpt: "Demonstration of noise filtering techniques in both time and frequency domains for ultrafast pump–probe spectroscopy with low repetition rate lasers."
+excerpt: "This work demonstrates time- and frequency-domain noise filtering strategies for ultrafast pump–probe spectroscopy with low repetition rate lasers, improving signal-to-noise ratio in femtosecond experiments."
 date: 2020-10-01
 venue: "Review of Scientific Instruments"
 paperurl: "https://doi.org/10.1063/5.0010449"
