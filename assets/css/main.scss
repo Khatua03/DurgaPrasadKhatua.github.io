@@ -55,3 +55,8 @@ body { font-family: 'Roboto', sans-serif; }
 .page__content {
   margin-right: 340px; /* give space so text doesn't overlap */
 }
+
+ /* Force all body text to black */
+body {
+  color: #000 !important;
+}
