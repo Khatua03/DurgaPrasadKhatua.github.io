@@ -2,7 +2,7 @@
 title: "Ultrafast carrier dynamics in Ag–CdTe hybrid nanostructure: non-radiative and radiative relaxations"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-ag-cdte-hybrid
+permalink: /publication/paper5
 excerpt: "We studied ultrafast carrier dynamics in Ag–CdTe hybrid nanostructures, highlighting the competition between non-radiative and radiative pathways in determining their optical response."
 date: 2021-05-01
 venue: "Journal of Physics: Condensed Matter"
