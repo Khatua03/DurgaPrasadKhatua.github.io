@@ -30,7 +30,6 @@ Dr. Khatua’s future research aims to unify **ultrafast science, quantum techno
 Through these directions, Dr. Khatua aims to contribute to the advancement of **next-generation fusion research** and the broader field of **ultrafast quantum technologies**.
 
 ---
-permalink: /
-title: "Durga Prasad Khatua, Ph.D."
-author_profile: true
-redirect_from
+
+> *"Science is a way of trying not to fool yourself."*  
+> — **Richard P. Feynman**
