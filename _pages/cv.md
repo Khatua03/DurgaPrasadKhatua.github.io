@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Physical Science, Aug 2017 – Nov 2022**<br>
-Homi Bhabha National Institute, Mumbai, India.<br>
-Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide.<br>
-Supervisor: Prof. J. Jayabalan
+**Ph.D. in Physical Science**  
+*Aug 2017 – Nov 2022*  
+Homi Bhabha National Institute, Raja Ramanna Centre for Advanced Technology (RRCAT), India  
+*Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide*
 * **Master of Science (M.Sc.), Physics, July 2014 – July 2016**<br>
 P.G. Department of Physics, Utkal University, Bhubaneswar, India.<br>    
 * **Bachelor of Science (B.Sc.), Physics Hons, 2010–2013**<br>
