@@ -28,3 +28,9 @@ Dr. Khatua’s future research aims to unify **ultrafast science, quantum techno
 - Pursuing compact **laser–plasma accelerators** and platforms that bridge **fusion energy** and **photonic instrumentation**.  
 
 Through these directions, Dr. Khatua aims to contribute to the advancement of **next-generation fusion research** and the broader field of **ultrafast quantum technologies**.
+
+---
+permalink: /
+title: "Durga Prasad Khatua, Ph.D."
+author_profile: true
+redirect_from
