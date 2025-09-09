@@ -28,13 +28,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Links */
+/* Links styled like Google Search */
 a {
-  color: #0A66C2;          /* LinkedIn Blue */
+  color: #1a0dab;          /* Google Search Blue */
   text-decoration: none;
 }
 
 a:hover {
-  color: #004182;          /* Darker blue on hover */
+  color: #551a8b;          /* Google hover purple */
   text-decoration: underline;
 }
 
