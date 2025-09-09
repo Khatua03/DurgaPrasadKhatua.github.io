@@ -114,10 +114,7 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
 
 ### 🌐 Professional Service
 
-**Reviewer Activity**  
-- *Journal of Materials Science: Materials in Electronics* (8 reviews)  
-- *Semiconductor Science and Technology* (1 review)  
-- *Nanotechnology* (4 reviews)  
+**Reviewer Activity**: *Journal of Materials Science: Materials in Electronics* (8 reviews), *Semiconductor Science and Technology* (1 review), *Nanotechnology* (4 reviews)  
 
 **Professional Memberships**  
 - American Physical Society (APS), Early Career Member *(ID: 62137939)*  
