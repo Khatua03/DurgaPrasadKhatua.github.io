@@ -12,23 +12,24 @@ title                    : "Durga Prasad Khatua, Ph.D."
 title_separator          : "-"
 name                     : &name "Durga Prasad Khatua"
 description              : &description "Postdoctoral Scholar at the University of California, Los Angeles | Ultrafast Dynamics | Pump-Probe spectroscopy | High-intensity Plasmonics | Plasma Diagnostics"
-url                      : https://khatua03.github.io/DurgaPrasadKhatua.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://khatua03.github.io/DurgaPrasadKhatua.github.io/"
+url                      : "https://Khatua03.github.io"                 # no trailing slash
+baseurl                  : "/DurgaPrasadKhatua.github.io"               # starts with a slash; use your repo name
+
+repository               : "Khatua03/DurgaPrasadKhatua.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"   # make sure you add a photo named profile.png in /images or /assets
-  name             : "Durga Prasad Khatua, Ph.D."
-  pronouns         : "he/him"  
-  bio              : "Postdoctoral Research Scholar at UCLA Physics. Specializing in ultrafast spectroscopy, high-energy light-matter interaction, and plasma diagnostics."
-  location         : "Los Angeles, USA"
-  employer         : "University of California, Los Angeles"
-  uri              : "https://khatua03.github.io/DurgaPrasadKhatua.github.io/"
-  email            : "dkhatua@physics.ucla.edu | khatuadurgaprasad03@gmail.com"
+  avatar     : "profile.png"   # ensure this file is in /images or /assets
+  name       : "Durga Prasad Khatua, Ph.D."
+  pronouns   : "he/him"  
+  bio        : "Postdoctoral Research Scholar at UCLA Physics. Specializing in ultrafast spectroscopy, high-energy light–matter interaction, and plasma diagnostics."
+  location   : "Los Angeles, USA"
+  employer   : "University of California, Los Angeles"
+  uri        : "https://Khatua03.github.io/DurgaPrasadKhatua.github.io"
+  email      : "khatuadurgaprasad03@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
