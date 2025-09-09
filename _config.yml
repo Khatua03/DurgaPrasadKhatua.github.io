@@ -22,7 +22,7 @@ repository               : "Khatua03/DurgaPrasadKhatua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar     : "profile.png"   # ensure this file is in /images or /assets
+  avatar     : "profile_picture.jpg"   # ensure this file is in /images or /assets
   name       : "Durga Prasad Khatua, Ph.D."
   pronouns   : "he/him"  
   bio        : "Postdoctoral Research Scholar at UCLA Physics. Specializing in ultrafast spectroscopy, high-energy light–matter interaction, and plasma diagnostics."
