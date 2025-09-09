@@ -2,7 +2,7 @@
 title: "Ultrafast carrier dynamics in a monolayer MoS<sub>2</sub> at carrier densities well above Mott density"
 collection: publications
 category: manuscripts
-permalink: 2015-10-01-paper-title-number-4
+permalink: 2024-02-17-paper-title-number-4
 excerpt: "Investigation of ultrafast carrier dynamics in monolayer MoS<sub>2</sub> at carrier densities far exceeding the Mott threshold, revealing fundamental excitonic behavior under extreme photoexcitation."
 date: 2022-04-01
 venue: "Journal of Physics: Condensed Matter"
