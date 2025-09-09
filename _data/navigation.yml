@@ -6,10 +6,10 @@
 
 main:     
      
-  - title:"CV"
+  - title:"cv"
     url: /cv/
 
-  - title:"PUBLICATIONS"
+  - title:"publications"
     url: /publications/     
      
     
