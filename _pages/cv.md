@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physical Science, Aug 2017 – Nov 2022
+  Homi Bhabha National Institute, Raja Ramanna Centre for Advanced Technology (RRCAT) , India. 
+  Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide.
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
