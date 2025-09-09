@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Durga Prasad Khatua"
+title                    : "Durga Prasad Khatua, Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Durga Prasad Khatua"
+description              : &description "Postdoctoral Scholar at the University of California, Los Angeles | Ultrafast Dynamics | Pump-Probe spectroscopy | High-intensity Plasmonics | Plasma Diagnostics"
+url                      : https://khatua03.github.io/DurgaPrasadKhatua.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://khatua03.github.io/DurgaPrasadKhatua.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
