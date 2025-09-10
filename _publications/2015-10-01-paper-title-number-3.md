@@ -7,7 +7,7 @@ excerpt: "Comparative study of ultrafast carrier dynamics near A, B, and C-excit
 date: 2022-05-01
 venue: "Optical Materials"
 paperurl: "https://doi.org/10.1016/j.optmat.2022.112224"
-citation: '<strong>Khatua, D. P.<strong><sup>*</sup>, Singh, A., Gurung, S., Tanwar, M., Kumar, R., and Jayabalan, J. (2022). "A comparative study of ultrafast carrier dynamics near A, B, and C-excitons in a monolayer MoS<sub>2</sub> at high excitation densities." <i>Optical Materials</i>, 126, 112224. https://doi.org/10.1016/j.optmat.2022.112224 [<sup>*</sup>Corresponding author]'
+citation: '<strong>Khatua, D. P.</strong><sup>*</sup>, Singh, A., Gurung, S., Tanwar, M., Kumar, R., and Jayabalan, J. (2022). "A comparative study of ultrafast carrier dynamics near A, B, and C-excitons in a monolayer MoS<sub>2</sub> at high excitation densities." <i>Optical Materials</i>, 126, 112224. https://doi.org/10.1016/j.optmat.2022.112224 [<sup>*</sup>Corresponding author]'
 ---
 
 
