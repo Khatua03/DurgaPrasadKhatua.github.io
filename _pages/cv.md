@@ -131,7 +131,7 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
   - Athletics and Sports Club Secretary (*2018 – 2020*)  
   - Library Secretary (*2017 – 2019*)  
 
-
-### *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
+---
+*“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
 — **Aristotle**
 
