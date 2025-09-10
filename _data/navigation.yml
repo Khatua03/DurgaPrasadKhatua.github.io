@@ -15,11 +15,10 @@ main:
     url: /publications/
     children:
       - title: "Journal Articles"
-        url: /publications/#journal-articles
+        url: /publications/#manuscripts
       - title: "Conference Proceedings"
-        url: /publications/#conference-proceedings
+        url: /publications/#proceedings
       - title: "Conference Presentations & Contributions"
-        url: /publications/#conference-presentation--contributions
+        url: /publications/#conferences
       - title: "Books"
         url: /publications/#books
-
