@@ -1,4 +1,4 @@
- ---
+---
 title: "A comparison of the transient optical response of a monolayer MoS<sub>2</sub> near its A, B, and C excitons"
 collection: publications
 category: proceedings
