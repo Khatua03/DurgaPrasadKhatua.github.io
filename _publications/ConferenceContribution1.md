@@ -8,5 +8,5 @@ excerpt: "We presented out study on plasmon excitation and dynamics under high-i
 light-matter interaction at the nanoscale"
 date: 2025-05-04
 venue: "CLEO 2025, Long Beach, CA, USA, May 4–9, 2025"
-citation: 'Khatua, D. P., Shafirin, P., Joly-Jehenne, T., and Davoyan, A. (2025). "Ultrafast plasmon dynamics under high-intensity laser excitation." <i>CLEO 2025</i>, Long Beach, CA, USA, May 4–9, 2025.'
+citation: '<strong>Khatua, D. P.</strong>, Shafirin, P., Joly-Jehenne, T., and Davoyan, A. (2025). "Ultrafast plasmon dynamics under high-intensity laser excitation." <i>CLEO 2025</i>, Long Beach, CA, USA, May 4–9, 2025.'
 ---
