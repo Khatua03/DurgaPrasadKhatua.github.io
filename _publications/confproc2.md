@@ -1,5 +1,5 @@
 ---
-title: "Ultrafast photoexcited carrier dynamics of monolayer MoS<sub>2</sub> near the band edge above Mott density (Oral Presentation)"
+title: "Ultrafast photoexcited carrier dynamics of monolayer MoS<sub>2</sub> near the band edge above Mott density"
 collection: publications
 category: proceedings
 permalink: /publication/2022-mpysc-mos2-proceeding
