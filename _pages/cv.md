@@ -112,6 +112,10 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
 
 ### 🏆 Awards & Achievements
 
+- **APS-DPP Registration Fee Waiver Award**  
+  *67th Annual Meeting of the American Physical Society – Division of Plasma Physics (APS-DPP), Long Beach, USA — 2025*  
+  *Received a competitive registration fee waiver (up to $300) to present research at the APS-DPP Annual Meeting.*
+
 - **37th MPYSC – Fellowship for Training of Young Scientists (FTYS)**  
   *M.P. Council of Science & Technology, Govt. of Madhya Pradesh, India — 2022*
 
