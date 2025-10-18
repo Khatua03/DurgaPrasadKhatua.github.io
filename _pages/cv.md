@@ -108,7 +108,42 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
    Mentored on time-resolved reflectivity with ultrashort pulses.  
 
 6. **Mohit Raj**, M.Sc. Candidate, RRCAT, India (*2019*)  
-   Guided in transient photoluminescence studies using optical Kerr gate.  
+   Guided in transient photoluminescence studies using optical Kerr gate.
+
+### 🏆 Awards & Achievements
+
+- **37th MPYSC – Fellowship for Training of Young Scientists (FTYS)**  
+  *M.P. Council of Science & Technology, Govt. of Madhya Pradesh, India — 2022*
+
+- **Best Poster Award**  
+  *65th DAE Solid State Physics Symposium (DAE-SSPS), 2021*
+
+- **Senior Research Fellowship (SRF)**  
+  *Department of Atomic Energy, Govt. of India — 2019*
+
+- **Qualified** Joint **CSIR-UGC NET** (Assistant Professor Eligibility, Physics)  
+  *2018*
+
+- **Junior Research Fellowship (JRF)**  
+  *Department of Atomic Energy, Govt. of India — 2017*
+
+- **Qualified** Graduate Aptitude Test in Engineering (**GATE**)  
+  *2017, 2018*
+
+- **Qualified** Joint Entrance Screening Test (**JEST**) in Physics  
+  *2016, 2017*
+
+- **Post-Graduate Merit Scholarship**  
+  *Govt. of Odisha, India — 2015–2016*
+
+- **Post-Graduate Scholarship Scheme in Physical Science**  
+  *Department of Science & Technology, Govt. of Odisha — 2015*
+
+- **Best Graduate**, *Gopabandhu Science College, Athgarh, India*  
+  *2013*
+
+- **Senior Merit Scholarship**  
+  *Govt. of Odisha, India — 2011–2013*
 
 ---
 
