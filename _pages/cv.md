@@ -11,11 +11,11 @@ redirect_from:
 
 ### 🎓 Education
 
-**Ph.D. in Physical Science**, *Aug 2017 – Nov 2022*  
+**Ph.D. in Physical Science**, *July 2017 – Sept 2022*  
 Homi Bhabha National Institute, Raja Ramanna Centre for Advanced Technology (RRCAT), India  
 *Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide*  
 
-**Master of Science (M.Sc.), Physics**, *July 2014 – July 2016*  
+**Master of Science (M.Sc.), Physics**, *July 2014 – June 2016*  
 P.G. Department of Physics, Utkal University, Bhubaneswar, India  
 
 **Bachelor of Science (B.Sc.), Physics (Hons.)**, *2010 – 2013*  
