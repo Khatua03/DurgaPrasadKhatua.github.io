@@ -149,10 +149,10 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
 
 - **Senior Merit Scholarship**  
   *Govt. of Odisha, India — 2011–2013*
-  
-- **National rural talent scholarship**
+
+- **National rural talent scholarship**  
   *Board of secondary education, Odisha, India – 2006*
-  
+
 ---
 
 ### 🌐 Professional Service
