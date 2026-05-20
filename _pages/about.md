@@ -28,6 +28,7 @@ Dr. Khatua’s future research aims to unify **ultrafast science, quantum techno
 - Pursuing compact **laser–plasma accelerators** and platforms that bridge **fusion energy** and **photonic instrumentation**.  
 
 Through these directions, Dr. Khatua aims to contribute to the advancement of **next-generation fusion research** and the broader field of **ultrafast quantum technologies**.
+In parallel with his research activities, Dr. Khatua is deeply committed to **teaching, mentoring, and transferring** scientific knowledge to future generations of students and researchers. He believes that scientific advancement is most meaningful when knowledge, curiosity, and critical thinking are shared and cultivated among young minds. Through research, teaching, and mentorship, he aims to inspire future scientists and contribute to the development of the next generation of researchers in ultrafast science, photonics, plasma physics, and fusion energy research.
 
 ---
 
