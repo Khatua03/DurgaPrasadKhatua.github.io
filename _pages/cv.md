@@ -40,7 +40,7 @@ Department of Mechanical and Aerospace Engineering, University of California, Lo
 **Projects:** Plasmon-driven laser-ion acceleration at high-energy regime; Laser ablation for space propulsion  
 **P.I.:** Prof. Artur Davoyan  
 
-**Graduate Student Researcher**, *July 2017 – Aug 2022*  
+**PhD Scholar**, *July 2017 – Aug 2022*  
 Raja Ramanna Centre for Advanced Technology (RRCAT), Indore, India  
 **Thesis:** Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide  
 **Supervisor:** Prof. J. Jayabalan  
