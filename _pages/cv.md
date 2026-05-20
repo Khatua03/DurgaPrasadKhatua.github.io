@@ -12,13 +12,14 @@ redirect_from:
 ### 🎓 Education
 
 **Ph.D. in Physical Science**, *July 2017 – Sept 2022*  
-Homi Bhabha National Institute, Raja Ramanna Centre for Advanced Technology (RRCAT), India  
+Homi Bhabha National Institute, Mumbai, India
+Raja Ramanna Centre for Advanced Technology (RRCAT), India  
 *Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide*  
 
 **Master of Science (M.Sc.), Physics**, *July 2014 – June 2016*  
 P.G. Department of Physics, Utkal University, Bhubaneswar, India  
 
-**Bachelor of Science (B.Sc.), Physics (Hons.)**, *2010 – 2013*  
+**Bachelor of Science (B.Sc.), Physics Hons.**, *2010 – 2013*  
 Gopabandhu Science College, Athgarh  
 Utkal University, Bhubaneswar, India  
 
@@ -32,8 +33,8 @@ Board of Secondary Education (BSE), Odisha, India
 
 **Postdoctoral Research Scholar**, *Nov 2024 – Present*  
 Department of Physics and Astronomy, University of California, Los Angeles, CA, USA  
-**Project:** Fast-ion driven instabilities in tokamak plasmas  
-**P.I.:** Dr. Neal Crocker, Dr. W. A. (Tony) Peebles  
+**Project:** Fast-ion driven instabilities in tokamak plasmas for fusion research  
+**P.I.:** Dr. Neal Crocker, Dr. W. A. Peebles  
 
 **Postdoctoral Research Scholar**, *Oct 2022 – Nov 2024*  
 Department of Mechanical and Aerospace Engineering, University of California, Los Angeles, CA, USA  
@@ -148,7 +149,9 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
 
 - **Senior Merit Scholarship**  
   *Govt. of Odisha, India — 2011–2013*
-
+  
+- **National rural talent scholarship**
+  *Board of secondary education, Odisha, India — 2006*
 ---
 
 ### 🌐 Professional Service
@@ -165,7 +168,7 @@ P.G. Department of Physics, Utkal University, Bhubaneswar, India
   - *UGC-DRS National Seminars on “Recent Trends in Physics” (2016)*  
   - *UGC-DRS National Seminar on “100 Years of General Theory of Relativity” (2015)*, Utkal University  
   - *National Science Day Celebrations* (Utkal University, 2016)  
-  - *Space Exploration and Interdisciplinary Science* (Gopabandhu Science College, 2012)  
+  - *Space Exploration and Interdisciplinary Science* (Gopabandhu Science College, Athgarh, 2012)  
 - Leadership roles at RRCAT, Indore:  
   - Athletics and Sports Club Secretary (*2018 – 2020*)  
   - Library Secretary (*2017 – 2019*)  
