@@ -108,4 +108,28 @@ a:hover {
   margin-right: 340px; /* give space so text doesn't overlap */
 }
 
+.greedy-nav .visible-links li:hover > ul {
+    display: block;
+}
+
+.greedy-nav .visible-links li ul {
+    display: none;
+    position: absolute;
+    background: white;
+    padding: 10px;
+    list-style: none;
+    z-index: 1000;
+    min-width: 220px;
+    border: 1px solid #ddd;
+}
+
+.greedy-nav .visible-links li {
+    position: relative;
+}
+
+.greedy-nav .visible-links li ul li {
+    margin: 5px 0;
+}
  
+ 
+
